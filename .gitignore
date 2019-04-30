@@ -1,0 +1,21 @@
+# Data files #
+##############
+*.csv
+!CustomEquationMatrixTemplate.csv
+*.txt
+*.pdf
+*.mat
+*.lhs
+
+# GUI config files #
+####################
+*.ini
+*.approx
+
+# MATLAB autosave files #
+#########################
+*.asv
+
+# Prevent subfolders #
+######################
+*/
